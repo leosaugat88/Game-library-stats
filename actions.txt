@@ -1,0 +1,8 @@
+Log created at 2025-12-13T18:15:03.0790152Z
+[2025-12-13T18:15:03.2100715Z] Loaded 2 player(s) from D:\Vaibhav Bhai\2025\November\21.11.2025\Job 1\GameLibraryManager\bin\Debug\net10.0\players.json.
+[2025-12-13T18:15:03.2276712Z] Sorted players by Id (descending=False).
+[2025-12-13T18:15:09.4781976Z] UNIT TEST TestAddPlayer - PASS - Player added and retrieved.
+[2025-12-13T18:15:09.4785662Z] UNIT TEST TestPreventDuplicateId - PASS - Duplicate ID correctly blocked.
+[2025-12-13T18:15:09.4787727Z] UNIT TEST TestUpdateStats - PASS - Stats updated correctly.
+[2025-12-13T18:15:09.4789956Z] UNIT TEST TestLinearSearch - PASS - Linear search works (case-insensitive).
+[2025-12-13T18:15:09.4795466Z] UNIT TEST TestInsertionSort - FAIL - Insertion sort failed.
